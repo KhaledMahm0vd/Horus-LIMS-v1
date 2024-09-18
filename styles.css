@@ -69,7 +69,7 @@ header nav ul li a {
 .features .feature, .benefits .benefit, .testimonials .testimonial, .pricing .pricing-plan {
     margin-bottom: 20px;
 }
-
+/* footer CSS */
 footer {
     background: #333;
     color: #fff;
